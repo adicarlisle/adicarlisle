@@ -5,6 +5,7 @@
 - 📫 How to reach me: [Email](mailto:adicarlisle@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There is Poetry that is valid Perl.
+  
 <p align="center">
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adicarlisle&theme=dracula)
