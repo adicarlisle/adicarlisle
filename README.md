@@ -7,7 +7,7 @@
 - ⚡ Fun fact: There is Poetry that is valid Perl.
 <p align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adicarlisle&theme=dark)](https://git.io/streak-stats&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adicarlisle&theme=dark)](https://git.io/streak-stats&theme=dracula)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adicarlisle&theme=dracula)
 
