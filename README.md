@@ -42,5 +42,6 @@
   
 [![Email](https://img.shields.io/badge/Email-adicarlisle@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adicarlisle@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-adicarlisle-181717?style=flat-square&logo=github)](https://github.com/adicarlisle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adi%20Carlisle-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-carlisle/)
 
 </div>
