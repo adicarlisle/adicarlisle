@@ -1,14 +1,46 @@
 ## Welcome to my profile 👋
 
-- 🔭 I’m currently collecting as many prospective coding challenges that I can put on Github and cleaning up my Linkedin
-- 🌱 I’m currently Automating bots for Discord, Twitch, and Runelite
+- 🔭 I'm currently collecting as many prospective coding challenges that I can put on Github and cleaning up my Linkedin
+- ��� I'm currently Automating bots for Discord, Twitch, and Runelite
 - 📫 How to reach me: [Email](mailto:adicarlisle@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There is Poetry that is valid Perl. Here is a link to some [PerlsOfWisdom](https://www.perlmonks.org/?node=Perl%20Poetry), give it time to think.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adicarlisle&theme=dracula&show_icons=true&count_private=true)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adicarlisle&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adicarlisle&layout=compact&theme=dracula&langs_count=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adicarlisle&layout=compact&theme=dracula)
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adicarlisle&theme=dracula)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adicarlisle&theme=dracula&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Quick Stats
+
+<div align="center">
+  
+| Metric | Value |
+|--------|-------|
+| ![GitHub followers](https://img.shields.io/github/followers/adicarlisle?style=social) | ![GitHub User's stars](https://img.shields.io/github/stars/adicarlisle?style=social) |
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-adicarlisle@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adicarlisle@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-adicarlisle-181717?style=flat-square&logo=github)](https://github.com/adicarlisle)
+
+</div>
