@@ -13,9 +13,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adicarlisle&theme=dracula&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adicarlisle&theme=dracula&show_icons=true&count_private=true&nocache=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adicarlisle&layout=compact&theme=dracula&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adicarlisle&layout=compact&theme=dracula&langs_count=8&nocache=1)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adicarlisle&theme=dracula)
 
