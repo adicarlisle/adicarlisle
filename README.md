@@ -1,8 +1,9 @@
 ## Welcome to my profile 👋
 
-- 🔭 I'm currently collecting as many prospective coding challenges that I can put on Github and cleaning up my Linkedin
-- 😉 I'm currently Automating bots for Discord, Twitch, and Runelite
-- 📫 How to reach me: [Email](mailto:adicarlisle@gmail.com)
+- 🔭 I'm currently learning how to be a Data Scientist
+- 😉 I'm currently Automating bots for Discord, and learning Excel and PowerBI
+- 💯 I'm enjoying myself by live-streaming my tortoise [A'Tuin](https://www.twitch.tv/adi_dev) sometimes
+- 📫 How to reach me: [Email](mailto:adicarlisle@gmail.com) or [Discord](https://discord.gg/e3EsQFQJ24)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There is Poetry that is valid Perl. Here is a link to some [PerlsOfWisdom](https://www.perlmonks.org/?node=Perl%20Poetry), give it time to think.
 
