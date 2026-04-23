@@ -1,7 +1,7 @@
 ## Welcome to my profile 👋
 
 - 🔭 I'm currently learning how to be a Data Scientist
-- 😉 I'm currently Automating bots for Discord, and learning Excel and PowerBI
+- 😉 I'm currently coding an infographic website for LOTR, and learning R, Excel and PowerBI
 - 💯 I'm enjoying myself by live-streaming my tortoise [A'Tuin](https://www.twitch.tv/adi_dev) sometimes
 - 📫 How to reach me: [Email](mailto:adicarlisle@gmail.com) or [Discord](https://discord.gg/e3EsQFQJ24)
 - 😄 Pronouns: He/Him
