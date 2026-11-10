@@ -1,7 +1,7 @@
 ## Welcome to my profile 👋
 
 - 🔭 I'm currently learning how to be a Data Scientist
-- 😉 I'm currently coding a personal blog and many small web apps that run alongside it. [Found at bigthought.ai](https://bigthught.ai)
+- 😉 I'm currently coding a personal blog and many small web apps that run alongside it. [Found at bigthought.ai](https://bigthought.ai)
 - 💯 I'm enjoying myself by live-streaming my tortoise [A'Tuin](https://www.twitch.tv/adi_dev) sometimes
 - 📫 How to reach me: [Email](mailto:adicarlisle@gmail.com) or [Discord](https://discord.gg/e3EsQFQJ24)
 - 😄 Pronouns: He/Him
